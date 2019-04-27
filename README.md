@@ -28,7 +28,8 @@ communities.
 ### Internal discussions and working groups
 
 A lot of internal discussion channels and rust team communications have already
-moved to Discord and Zulip, at the discretion of individual teams.
+moved to Discord and Zulip, at the discretion of individual teams. The choice
+of new homes for teams still on IRC will still be up to them.
 
 ### Rust support and discussion channels
 
@@ -40,7 +41,7 @@ been announced at this time.
 
 * freenode/##rust, oftc/#rust
 
-### Miscellaneous rust rooms Unofficial channels and specific topic channels
+### Miscellaneous rust rooms, unofficial channels, and specific topic channels
 such as #rust-offtopic, #rust-(language), #rust-networking will have to find
 new homes. Some users or channels will likely go to another IRC server such as
 OFTC or freenode, some to community-maintained servers on Discord, matrix,
