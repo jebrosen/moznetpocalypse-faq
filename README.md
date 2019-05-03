@@ -23,6 +23,13 @@ communities.
 * April 26, 2019: Some users and channels begin discussing migration plans,
   creating new channels, and so on.
 
+## Note: Mozilla is not switching to Discord
+
+Mozilla has not yet (as of April 29, 2019) announced a replacement for IRC, but
+it has been said that Discord doesn't meet Mozilla's requirements.  Many
+official *Rust channels and teams* are moving or have already moved to Discord,
+but that does not reflect on Mozilla overall.
+
 ## Where will all the channels go!?!?
 
 ### Internal discussions and working groups
@@ -63,6 +70,11 @@ I have not followed these discussions; most of these will go to other servers
 and/or whatever platform mozilla chooses for itself.
 
 * PRs welcome to add additional details.
+
+## IRC matrix bridges
+
+IRC channels bridged to matrix will still exist on matrix after MozNet shuts
+down.
 
 ## Notes
 
