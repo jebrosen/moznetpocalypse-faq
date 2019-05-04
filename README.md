@@ -22,13 +22,16 @@ communities.
   thread](https://www.reddit.com/r/rust/comments/bhrm7g/mozilla_irc_sunset_and_the_rust_channel/)
 * April 26, 2019: Some users and channels begin discussing migration plans,
   creating new channels, and so on.
+* May 3, 2019: mhoye publishes a followup [blog
+  post](http://exple.tive.org/blarg/2019/05/03/goals-and-constraints/)
+  outlining some of mozilla's requirements for an IRC replacement.
 
 ## Note: Mozilla is not switching to Discord
 
-Mozilla has not yet (as of April 29, 2019) announced a replacement for IRC, but
-it has been said that Discord doesn't meet Mozilla's requirements.  Many
-official *Rust channels and teams* are moving or have already moved to Discord,
-but that does not reflect on Mozilla overall.
+Mozilla has (as of May 4, 2019) announced requirements for an IRC replacement,
+and it has been said elsewhere that Discord doesn't meet all of Mozilla's
+requirements.  Many official *Rust channels and teams* are moving or have
+already moved to Discord, but that does not reflect on Mozilla overall.
 
 ## Where will all the channels go!?!?
 
